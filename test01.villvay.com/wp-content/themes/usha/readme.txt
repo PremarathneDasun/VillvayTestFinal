@@ -1,0 +1,1 @@
+1. Usha is an SEO optimized, responsive and minimalist wordpress theme. Usha is based on the _s (Underscores) starter theme by Automattic Inc., licensed under GPL 2.0. This theme is simple theme with steal blue and grey colour combination. It makes blogging simple. please let us know your feedback and suggestions about this theme. 
